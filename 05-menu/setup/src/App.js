@@ -3,6 +3,7 @@ import Menu from "./Menu";
 import Categories from "./Categories";
 import items from "./data";
 
+// Convert object to array, Add all to it and use set to avoid repetition.
 const allCategories = ["all", ...new Set(items.map((x) => x.category))];
 
 function App() {

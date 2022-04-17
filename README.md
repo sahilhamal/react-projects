@@ -1,3 +1,7 @@
+# Personal Note
+
+All code is inside setup with comments. Final is the correct one but I did myself in setup and that works perfectly.
+
 # React Projects
 
 #### React Course
